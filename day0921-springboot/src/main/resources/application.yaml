@@ -1,0 +1,13 @@
+Person:
+  name: 豆豆
+  age: 18
+  feeling: true
+  map: {k1: v1,k2: v2}
+  list:
+    - girl
+    - boy
+    - male
+    - female
+  dog:
+    name: 豆芽
+    age: 18
